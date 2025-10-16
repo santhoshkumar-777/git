@@ -1,15 +1,19 @@
 hello git
 i'm santhosh
-     ai developer
+     ai developer / web devloper
 
 PASSIONATE ABOUT AI AND WEB DEVELOPMENT
+======
 
 As an AI developer, I have been thinking about how technology can be used to improve the world. Here are some of my thoughts:
 
+<<<<<<< HEAD
 1. **Accessibility**: I believe that technology should be accessible to everyone, regardless of their physical abilities or financial situation. This includes creating software that is user-friendly, affordable, and accessible to people with disabilities.
 
 
 
+=======
+>>>>>>> main
 ### Thoughts in my Story
 
 1. When I was a teenager, I was fascinated by Artificial Intelligence.
